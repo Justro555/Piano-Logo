@@ -1,0 +1,151 @@
+<div class="outer">
+  <div class="rectangle1">
+    <div class="inrectangle1">
+      <div class="inrectangle2">
+        <div class="inblack3">
+          <div class="inrectangle3">
+          <div class="inrectangle4">
+            <div class="inrectangle5">
+              <div class="inrectangle6">
+                <div class="inrectangle7"></div>
+                <div class="inblack6">
+                </div>
+              </div>
+            <div class="inblack5">
+            </div>
+            </div>
+            <div class="inblack4">
+            </div>
+            </div>
+          </div>
+        </div>
+      <div class="inblack1"></div>
+        <div class="inblack2"></div>
+      </div>
+    </div>
+     
+  </div>
+</div>
+<style>
+  *{
+    margin:0;
+    padding:0;
+  }
+  .outer{
+    background-color:#998235;
+    width:100%;
+    height:100%;
+  }
+  .rectangle1{
+    position:relative;
+    margin:auto;
+    background-color:#191919;
+    border-radius:10px;
+    top:100px;
+    width:180px;
+  }
+  .inrectangle1{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    top:25px;
+    left:5px;
+  }
+  .inblack1{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    right:15px;
+  }
+  .inrectangle2{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:25px;
+  }
+  .inblack2{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    left:15px;
+  }
+  .inrectangle3{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:10px;
+  }
+  .inblack3{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    left:15px;
+  }
+  .inrectangle4{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:25px;
+  }
+  .inblack4{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    left:15px;
+  }
+  .inrectangle5{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:25px;
+  }
+  .inblack5{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    left:15px;
+  }
+  .inrectangle6{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:25px;
+  }
+  .inblack6{
+    position:absolute;
+    background-color:#191919;
+    width:15px;
+    height:35px;
+    left:15px;
+  }
+  .inrectangle7{
+    position:absolute;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    width:20px;
+    height:70px;
+    left:25px;
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    background: #dd6b4d;
+  }
+</style>
